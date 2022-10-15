@@ -2,7 +2,8 @@
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning natural language preprocessing
 - 👬 I’m looking to collaborate on machine learning/deep learning projects
-- 📫 How to reach me anshumansharma179@gmail.com 
+- 📫 How to reach me anshumansharma179@gmail.com
+
 
 
 <!---
